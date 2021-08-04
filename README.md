@@ -3,7 +3,7 @@
 
 ## WalkingDistances_Final.csv
 
-Walking distances between glottolog languages, according to Google Maps (derived in 2017). Only information for languages within the same Autotyp region are available. Routes to some remote languages cannot be calculated.
+Walking distances between glottolog languages, according to Google Maps (derived in 2017). Only information for languages within the same Autotyp region are available. Routes to some remote languages cannot be calculated. Duration is in seconds, distance is in meters.
 
 ## PolygonDistanceWithEIDs.rds
 
